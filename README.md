@@ -1,5 +1,3 @@
-
-
 Project Overview:
 
 The project introduces an automated data validation system that rigorously inspects and readies input data from an Excel file for subsequent machine learning tasks, particularly multiple regression.
@@ -38,6 +36,8 @@ Automated Validation Workflow:
 
 11. Automated Stopping Conditions:
     The process stops automatically either after successfully passing all validation phases or upon detecting a failure in any validation criterion. This guarantees that subsequent analyses rely solely on dependable data.
+
+
 
 
 
